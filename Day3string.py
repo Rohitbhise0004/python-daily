@@ -34,6 +34,7 @@ print (str[3])
 str ='rohitbhise'
 print(str[1:4])
 
+#String Functions
 str = 'i am a coder'
 print(str.endswith('er'))  #endwith
 print(str.capitalize())    #capitalize
